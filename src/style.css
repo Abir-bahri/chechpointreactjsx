@@ -1,0 +1,9 @@
+.titlered{
+    display: none;
+    position: absolute;
+    font-size: 150%;
+    color: rgb(168, 39, 39);
+}
+.h1{
+    color: rgb(233, 5, 5);
+}
